@@ -1,10 +1,9 @@
 ## Hi there, I'm Julio 👋
 
 * Front-End Developer
-* Working with ReactJS
-* Learning UX Design at [Alura](https://www.alura.com.br)
-* 
 * Intern at Dash Solutions
+* Working with ReactJS and MaterialUI
+* Learning UX Design at [Alura](https://www.alura.com.br)
 
 ## Github Stats
 
@@ -18,7 +17,7 @@
   
   <div>
 <a href="https://github.com/JuliSergioFS/firefox-dictionary-extension ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioSergioFS&repo=firefox-dictionary-extension&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="135em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioSergioFS&repo=firefox-dictionary-extension&show_icons=true&theme=dracula" />
 </a>
   </div>
 
