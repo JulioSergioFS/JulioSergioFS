@@ -3,7 +3,7 @@
 * Front-End Developer
 * Intern at [Dash Solutions](https://www.dashsolutions.com.br)
 * Working with ReactJS and MaterialUI
-* Learning UX Design at [Alura](https://www.alura.com.br)
+* Learning about cyber security with writeups
 
 ## Github Stats
 
@@ -12,7 +12,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioSergioFS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioSergioFS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+
+<!---
+
  ## Current Personal Project
   
   <div>
@@ -20,6 +22,8 @@
   <img height="135em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioSergioFS&repo=firefox-dictionary-extension&show_icons=true&theme=dracula" />
 </a>
   </div>
+
+--->
 
 ## Languages
 <div style="display: inline_block"><br>
