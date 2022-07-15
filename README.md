@@ -1,7 +1,7 @@
 ## Hi there, I'm Julio 👋
 
 * Front-End Developer
-* Intern at [Dash Solutions](https://www.dashsolutions.com.br)
+* Web developer at [Dash Solutions](https://www.dashsolutions.com.br)
 * Working with ReactJS and MaterialUI
 * Learning about cyber security with writeups
 
