@@ -5,13 +5,17 @@
 * Working with ReactJS and MaterialUI
 * Learning about cyber security with writeups
 
+<!---
 ## Github Stats
 
 <div>
   <a href="https://github.com/JulioSergioFS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioSergioFS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioSergioFS&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>​
+
+27
+--->
 
 <!---
 
