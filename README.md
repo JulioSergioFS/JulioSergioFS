@@ -1,9 +1,8 @@
 ## Hi there, I'm Julio 👋
 
-* Front-End Developer
-* Web developer at [Dash Solutions](https://www.dashsolutions.com.br)
-* Working with ReactJS and MaterialUI
-* Learning about cyber security with writeups
+* Web Developer at [Dash Solutions](https://www.dashsolutions.com.br)
+* Working mostly with ReactJS and MaterialUI
+* Currently learning about cyber security
 
 <!---
 ## Github Stats
@@ -50,6 +49,7 @@
   <a href="https://instagram.com/julio_sergiofs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juliosergio010302@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julio-sergio-ferreira-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@juliosergiofs" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   <!--
 **JulioSergioFS/JulioSergioFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
