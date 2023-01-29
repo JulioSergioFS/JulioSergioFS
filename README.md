@@ -42,6 +42,8 @@
   
 - [What is programming?](https://juliosergiofs.medium.com/what-is-programming-c41041414573)
 - [O que é programação?](https://juliosergiofs.medium.com/o-que-é-programação-742a180d8a97)
+- [Broken Access Control: The basics](https://juliosergiofs.medium.com/broken-access-control-what-i-have-learned-1223874179cd)
+- [Bug Bounty Tips — Part 1](https://juliosergiofs.medium.com/bug-bounty-tips-part-1-5d3f13bb7906)
   
 ## Follow me on Social Media
 <div> 
