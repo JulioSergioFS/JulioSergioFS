@@ -2,7 +2,7 @@
 
 * Web Developer at [Dash Solutions](https://www.dashsolutions.com.br)
 * Working mostly with ReactJS and MaterialUI
-* Currently learning about cyber security
+* Currently deepening my knowledge in ReactJS and TypeScript
 
 <!---
 ## Github Stats
