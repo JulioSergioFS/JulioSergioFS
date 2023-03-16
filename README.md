@@ -1,8 +1,8 @@
 ## Hi there, I'm Julio 👋
 
-* Web Developer at [Dash Solutions](https://www.dashsolutions.com.br)
-* Working mostly with ReactJS and MaterialUI
-* Currently deepening my knowledge in ReactJS and TypeScript
+* Frontend Developer and Freelancer searching for new projects and opportunities
+* Currently deepening my knowledge in ReactJS
+* Click [here](https://juliosergiofs.github.io/portfolio) to go to my portfolio
 
 <!---
 ## Github Stats
