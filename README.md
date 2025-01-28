@@ -1,8 +1,8 @@
 ## Hi there, I'm Julio 👋
 
-* Frontend Developer and Freelancer searching for new projects and opportunities
-* Currently deepening my knowledge in ReactJS
-* Click [here](https://juliosergiofs.github.io/portfolio) to go to my portfolio
+* Fullstack Developer and Freelancer searching for new projects and opportunities
+* Currently deepening my knowledge in NestJS
+<!--- Click [here](https://juliosergiofs.github.io/portfolio) to go to my portfolio --->
 
 <!---
 ## Github Stats
