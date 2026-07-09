@@ -1,7 +1,6 @@
 ## Hi there, I'm Julio 👋
 
-* Fullstack Developer and Freelancer searching for new projects and opportunities
-* Currently deepening my knowledge in NestJS
+* Fullstack Developer and Freelancer
 <!--- Click [here](https://juliosergiofs.github.io/portfolio) to go to my portfolio --->
 
 <!---
@@ -37,15 +36,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 
-## Read my Articles
-  
-- [What is programming?](https://juliosergiofs.medium.com/what-is-programming-c41041414573)
-- [O que é programação?](https://juliosergiofs.medium.com/o-que-é-programação-742a180d8a97)
-- [Breaking Free From Motivation](https://juliosergiofs.medium.com/breaking-free-from-motivation-53706df31be8)
-- [Libertando-se da Motivação](https://juliosergiofs.medium.com/libertando-se-da-motiva%C3%A7%C3%A3o-e33354471253)
-- [Broken Access Control: The basics](https://juliosergiofs.medium.com/broken-access-control-what-i-have-learned-1223874179cd)
-- [Bug Bounty Tips — Part 1](https://juliosergiofs.medium.com/bug-bounty-tips-part-1-5d3f13bb7906)
-  
 ## Follow me on Social Media
 <div> 
   <a href="https://instagram.com/julio_sergiofs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
